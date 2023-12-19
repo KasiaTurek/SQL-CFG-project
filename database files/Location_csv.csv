@@ -1,0 +1,633 @@
+location_id;city;state;postal_code;region_id
+1;Aberdeen;South Dakota;57401;1
+2;Abilene;Texas;79605;1
+3;Akron;Ohio;44312;2
+4;Albuquerque;New Mexico;87105;4
+5;Alexandria;Virginia;22304;3
+6;Allen;Texas;75002;1
+7;Allentown;Pennsylvania;18103;2
+8;Altoona;Pennsylvania;16602;2
+9;Amarillo;Texas;79109;1
+10;Anaheim;California;92804;4
+11;Andover;Massachusetts;1810;2
+12;Ann Arbor;Michigan;48104;1
+13;Antioch;California;94509;4
+14;Apopka;Florida;32712;3
+15;Apple Valley;Minnesota;55124;1
+16;Apple Valley;California;92307;4
+17;Appleton;Wisconsin;54915;1
+18;Arlington;Virginia;22204;3
+19;Arlington;Texas;76017;1
+20;Arlington Heights;Illinois;60004;1
+21;Arvada;Colorado;80004;4
+22;Asheville;North Carolina;28806;3
+23;Athens;Georgia;30605;3
+24;Atlanta;Georgia;30318;3
+25;Atlantic City;New Jersey;8401;2
+26;Auburn;New York;13021;2
+27;Auburn;Washington;98002;4
+28;Auburn;Alabama;36830;3
+29;Aurora;Colorado;80013;4
+30;Aurora;Illinois;60505;1
+31;Austin;Texas;78745;1
+32;Avondale;Arizona;85323;4
+33;Bakersfield;California;93309;4
+34;Baltimore;Maryland;21215;2
+35;Bangor;Maine;4401;2
+36;Bartlett;Tennessee;38134;3
+37;Bayonne;New Jersey;7002;2
+38;Baytown;Texas;77520;1
+39;Beaumont;Texas;77705;1
+40;Bedford;Texas;76021;1
+41;Belleville;New Jersey;7109;2
+42;Bellevue;Washington;98006;4
+43;Bellingham;Washington;98226;4
+44;Bethlehem;Pennsylvania;18018;2
+45;Beverly;Massachusetts;1915;2
+46;Billings;Montana;59102;4
+47;Bloomington;Illinois;61701;1
+48;Bloomington;Indiana;47401;1
+49;Boca Raton;Florida;33433;3
+50;Boise;Idaho;83704;4
+51;Bolingbrook;Illinois;60440;1
+52;Bossier City;Louisiana;71111;3
+53;Bowling Green;Kentucky;42104;3
+54;Bowling Green;Ohio;43402;2
+55;Boynton Beach;Florida;33437;3
+56;Bozeman;Montana;59715;4
+57;Brentwood;California;94513;4
+58;Bridgeton;New Jersey;8302;2
+59;Bristol;Tennessee;37620;3
+60;Bristol;Connecticut;6010;2
+61;Broken Arrow;Oklahoma;74012;1
+62;Broomfield;Colorado;80020;4
+63;Brownsville;Texas;78521;1
+64;Bryan;Texas;77803;1
+65;Buffalo;New York;14215;2
+66;Buffalo Grove;Illinois;60089;1
+67;Bullhead City;Arizona;86442;4
+68;Burbank;California;91505;4
+69;Burlington;North Carolina;27217;3
+70;Burlington;Iowa;52601;1
+71;Burlington;Vermont;05408;2
+72;Caldwell;Idaho;83605;4
+73;Camarillo;California;93010;4
+74;Cambridge;Massachusetts;2138;2
+75;Canton;Michigan;48187;1
+76;Carlsbad;New Mexico;88220;4
+77;Carol Stream;Illinois;60188;1
+78;Carrollton;Texas;75007;1
+79;Cary;North Carolina;27511;3
+80;Cedar Hill;Texas;75104;1
+81;Cedar Rapids;Iowa;52402;1
+82;Champaign;Illinois;61821;1
+83;Chandler;Arizona;85224;4
+84;Chapel Hill;North Carolina;27514;3
+85;Charlotte;North Carolina;28205;3
+86;Charlottesville;Virginia;22901;3
+87;Chattanooga;Tennessee;37421;3
+88;Chesapeake;Virginia;23320;3
+89;Chester;Pennsylvania;19013;2
+90;Cheyenne;Wyoming;82001;4
+91;Chicago;Illinois;60610;1
+92;Chicago;Illinois;60623;1
+93;Chicago;Illinois;60653;1
+94;Chico;California;95928;4
+95;Chula Vista;California;91911;4
+96;Cincinnati;Ohio;45231;2
+97;Citrus Heights;California;95610;4
+98;Clarksville;Tennessee;37042;3
+99;Cleveland;Ohio;44105;2
+100;Clifton;New Jersey;7011;2
+101;Clinton;Maryland;20735;2
+102;Clovis;New Mexico;88101;4
+103;Coachella;California;92236;4
+104;College Station;Texas;77840;1
+105;Colorado Springs;Colorado;80906;4
+106;Columbia;South Carolina;29203;3
+107;Columbia;Tennessee;38401;3
+108;Columbia;Maryland;21044;2
+109;Columbia;Missouri;65203;1
+110;Columbus;Ohio;43229;2
+111;Columbus;Georgia;31907;3
+112;Columbus;Indiana;47201;1
+113;Commerce City;Colorado;80022;4
+114;Concord;North Carolina;28027;3
+115;Concord;California;94521;4
+116;Concord;New Hampshire;3301;2
+117;Conroe;Texas;77301;1
+118;Conway;Arkansas;72032;3
+119;Coon Rapids;Minnesota;55433;1
+120;Coppell;Texas;75019;1
+121;Coral Gables;Florida;33134;3
+122;Coral Springs;Florida;33065;3
+123;Corpus Christi;Texas;78415;1
+124;Costa Mesa;California;92627;4
+125;Cottage Grove;Minnesota;55016;1
+126;Covington;Washington;98042;4
+127;Cranston;Rhode Island;2920;2
+128;Cuyahoga Falls;Ohio;44221;2
+129;Dallas;Texas;75220;1
+130;Dallas;Texas;75217;1
+131;Dallas;Texas;75081;1
+132;Danbury;Connecticut;6810;2
+133;Danville;California;94526;4
+134;Danville;Illinois;61832;1
+135;Davis;California;95616;4
+136;Daytona Beach;Florida;32114;3
+137;Dearborn;Michigan;48126;1
+138;Dearborn Heights;Michigan;48127;1
+139;Decatur;Alabama;35601;3
+140;Decatur;Illinois;62521;1
+141;Deer Park;Texas;77536;1
+142;Delray Beach;Florida;33445;3
+143;Deltona;Florida;32725;3
+144;Denver;Colorado;80219;4
+145;Des Moines;Washington;98198;4
+146;Des Moines;Iowa;50315;1
+147;Des Plaines;Illinois;60016;1
+148;Detroit;Michigan;48227;1
+149;Detroit;Michigan;48234;1
+150;Detroit;Michigan;48205;1
+151;Dover;Delaware;19901;2
+152;Dover;New Hampshire;3820;2
+153;Draper;Utah;84020;4
+154;Dublin;Ohio;43017;2
+155;Dublin;California;94568;4
+156;Dubuque;Iowa;52001;1
+157;Durham;North Carolina;27707;3
+158;Eagan;Minnesota;55122;1
+159;East Orange;New Jersey;7017;2
+160;East Point;Georgia;30344;3
+161;Eau Claire;Wisconsin;54703;1
+162;Edinburg;Texas;78539;1
+163;Edmond;Oklahoma;73034;1
+164;Edmonds;Washington;98026;4
+165;El Cajon;California;92020;4
+166;El Paso;Texas;79907;1
+167;Elkhart;Indiana;46514;1
+168;Elmhurst;Illinois;60126;1
+169;Elyria;Ohio;44035;2
+170;Encinitas;California;92024;4
+171;Englewood;Colorado;80112;4
+172;Escondido;California;92025;4
+173;Eugene;Oregon;97405;4
+174;Evanston;Illinois;60201;1
+175;Everett;Massachusetts;2149;2
+176;Everett;Washington;98208;4
+177;Fairfield;Connecticut;6824;2
+178;Fairfield;California;94533;4
+179;Fairfield;Ohio;45014;2
+180;Fargo;North Dakota;58103;1
+181;Farmington;New Mexico;87401;4
+182;Fayetteville;Arkansas;72701;3
+183;Fayetteville;North Carolina;28314;3
+184;Florence;Kentucky;41042;3
+185;Florence;Alabama;35630;3
+186;Florence;South Carolina;29501;3
+187;Fort Collins;Colorado;80525;4
+188;Fort Lauderdale;Florida;33311;3
+189;Fort Worth;Texas;76106;1
+190;Frankfort;Illinois;60423;1
+191;Franklin;Wisconsin;53132;1
+192;Franklin;Tennessee;37064;3
+193;Franklin;Massachusetts;2038;2
+194;Freeport;New York;11520;2
+195;Freeport;Illinois;61032;1
+196;Fremont;Nebraska;68025;1
+197;Fresno;California;93727;4
+198;Frisco;Texas;75034;1
+199;Gaithersburg;Maryland;20877;2
+200;Garden City;Kansas;67846;1
+201;Garland;Texas;75043;1
+202;Gastonia;North Carolina;28052;3
+203;Georgetown;Kentucky;40324;3
+204;Gilbert;Arizona;85234;4
+205;Gladstone;Missouri;64118;1
+206;Glendale;Arizona;85301;4
+207;Glenview;Illinois;60025;1
+208;Goldsboro;North Carolina;27534;3
+209;Grand Island;Nebraska;68801;1
+210;Grand Prairie;Texas;75051;1
+211;Grand Rapids;Michigan;49505;1
+212;Grapevine;Texas;76051;1
+213;Great Falls;Montana;59405;4
+214;Greeley;Colorado;80634;4
+215;Green Bay;Wisconsin;54302;1
+216;Greensboro;North Carolina;27405;3
+217;Greenville;North Carolina;27834;3
+218;Greenwood;Indiana;46142;1
+219;Gresham;Oregon;97030;4
+220;Grove City;Ohio;43123;2
+221;Gulfport;Mississippi;39503;3
+222;Hackensack;New Jersey;7601;2
+223;Hagerstown;Maryland;21740;2
+224;Haltom City;Texas;76117;1
+225;Hamilton;Ohio;45011;2
+226;Hampton;Virginia;23666;3
+227;Harlingen;Texas;78550;1
+228;Harrisonburg;Virginia;22801;3
+229;Hattiesburg;Mississippi;39401;3
+230;Helena;Montana;59601;4
+231;Hempstead;New York;11550;2
+232;Henderson;Kentucky;42420;3
+233;Henderson;Nevada;89015;4
+234;Hendersonville;Tennessee;37075;3
+235;Hesperia;California;92345;4
+236;Hialeah;Florida;33012;3
+237;Hickory;North Carolina;28601;3
+238;Highland Park;Illinois;60035;1
+239;Hillsboro;Oregon;97123;4
+240;Holland;Michigan;49423;1
+241;Hollywood;Florida;33021;3
+242;Holyoke;Massachusetts;1040;2
+243;Homestead;Florida;33030;3
+244;Hoover;Alabama;35244;3
+245;Hot Springs;Arkansas;71901;3
+246;Houston;Texas;77095;1
+247;Houston;Texas;77041;1
+248;Houston;Texas;77070;1
+249;Houston;Texas;77036;1
+250;Huntington Beach;California;92646;4
+251;Huntsville;Texas;77340;1
+252;Huntsville;Alabama;35810;3
+253;Independence;Missouri;64055;1
+254;Indianapolis;Indiana;46203;1
+255;Inglewood;California;90301;4
+256;Iowa City;Iowa;52240;1
+257;Irving;Texas;75061;1
+258;Jackson;Michigan;49201;1
+259;Jackson;Mississippi;39212;3
+260;Jackson;Tennessee;38301;3
+261;Jacksonville;Florida;32216;3
+262;Jacksonville;North Carolina;28540;3
+263;Jamestown;New York;14701;2
+264;Jefferson City;Missouri;65109;1
+265;Johnson City;Tennessee;37604;3
+266;Jonesboro;Arkansas;72401;3
+267;Jupiter;Florida;33458;3
+268;Keller;Texas;76248;1
+269;Kenner;Louisiana;70065;3
+270;Kenosha;Wisconsin;53142;1
+271;Kent;Washington;98031;4
+272;Kent;Ohio;44240;2
+273;Kirkwood;Missouri;63122;1
+274;Kissimmee;Florida;34741;3
+275;Knoxville;Tennessee;37918;3
+276;La Crosse;Wisconsin;54601;1
+277;La Mesa;California;91941;4
+278;La Porte;Indiana;46350;1
+279;La Porte;Texas;77571;1
+280;La Quinta;California;92253;4
+281;Lafayette;Louisiana;70506;3
+282;Lafayette;Indiana;47905;1
+283;Laguna Niguel;California;92677;4
+284;Lake Charles;Louisiana;70601;3
+285;Lake Elsinore;California;92530;4
+286;Lake Forest;California;92630;4
+287;Lakeland;Florida;33801;3
+288;Lakeville;Minnesota;55044;1
+289;Lakewood;New Jersey;8701;2
+290;Lakewood;Ohio;44107;2
+291;Lakewood;California;90712;4
+292;Lancaster;California;93534;4
+293;Lancaster;Pennsylvania;17602;2
+294;Lancaster;Ohio;43130;2
+295;Lansing;Michigan;48911;1
+296;Laredo;Texas;78041;1
+297;Las Cruces;New Mexico;88001;4
+298;Las Vegas;Nevada;89115;4
+299;Laurel;Maryland;20707;2
+300;Lawrence;Massachusetts;1841;2
+301;Lawrence;Indiana;46226;1
+302;Lawton;Oklahoma;73505;1
+303;Layton;Utah;84041;4
+304;League City;Texas;77573;1
+305;Lebanon;Tennessee;37087;3
+306;Lehi;Utah;84043;4
+307;Leominster;Massachusetts;1453;2
+308;Lewiston;Idaho;83501;4
+309;Lewiston;Maine;4240;2
+310;Lincoln Park;Michigan;48146;1
+311;Linden;New Jersey;7036;2
+312;Lindenhurst;New York;11757;2
+313;Little Rock;Arkansas;72209;3
+314;Littleton;Colorado;80122;4
+315;Lodi;California;95240;4
+316;Logan;Utah;84321;4
+317;Long Beach;California;90805;4
+318;Long Beach;New York;11561;2
+319;Longmont;Colorado;80501;4
+320;Longview;Washington;98632;4
+321;Lorain;Ohio;44052;2
+322;Los Angeles;California;90036;4
+323;Los Angeles;California;90032;4
+324;Los Angeles;California;90049;4
+325;Los Angeles;California;90004;4
+326;Los Angeles;California;90045;4
+327;Los Angeles;California;90008;4
+328;Louisville;Colorado;80027;4
+329;Louisville;Kentucky;40214;3
+330;Loveland;Colorado;80538;4
+331;Lowell;Massachusetts;1852;2
+332;Lubbock;Texas;79424;1
+333;Macon;Georgia;31204;3
+334;Madison;Wisconsin;53711;1
+335;Malden;Massachusetts;2148;2
+336;Manchester;Connecticut;6040;2
+337;Manhattan;Kansas;66502;1
+338;Mansfield;Texas;76063;1
+339;Manteca;California;95336;4
+340;Maple Grove;Minnesota;55369;1
+341;Margate;Florida;33063;3
+342;Marietta;Georgia;30062;3
+343;Marion;Ohio;43302;2
+344;Marion;Iowa;52302;1
+345;Marlborough;Massachusetts;1752;2
+346;Marysville;Washington;98270;4
+347;Mason;Ohio;45040;2
+348;Mcallen;Texas;78501;1
+349;Medford;Oregon;97504;4
+350;Medina;Ohio;44256;2
+351;Melbourne;Florida;32935;3
+352;Memphis;Tennessee;38109;3
+353;Mentor;Ohio;44060;2
+354;Meriden;Connecticut;6450;2
+355;Meridian;Idaho;83642;4
+356;Mesa;Arizona;85204;4
+357;Mesquite;Texas;75150;1
+358;Miami;Florida;33180;3
+359;Miami;Florida;33142;3
+360;Miami;Florida;33178;3
+361;Middletown;Connecticut;6457;2
+362;Midland;Michigan;48640;1
+363;Milford;Connecticut;6460;2
+364;Milwaukee;Wisconsin;53209;1
+365;Minneapolis;Minnesota;55407;1
+366;Miramar;Florida;33023;3
+367;Mishawaka;Indiana;46544;1
+368;Mission Viejo;California;92691;4
+369;Missoula;Montana;59801;4
+370;Missouri City;Texas;77489;1
+371;Mobile;Alabama;36608;3
+372;Modesto;California;95351;4
+373;Monroe;Louisiana;71203;3
+374;Monroe;North Carolina;28110;3
+375;Montebello;California;90640;4
+376;Montgomery;Alabama;36116;3
+377;Moorhead;Minnesota;56560;1
+378;Moreno Valley;California;92553;4
+379;Morgan Hill;California;95037;4
+380;Morristown;New Jersey;7960;2
+381;Mount Pleasant;South Carolina;29464;3
+382;Mount Pleasant;Michigan;48858;1
+383;Mount Vernon;New York;10550;2
+384;Murfreesboro;Tennessee;37130;3
+385;Murray;Kentucky;42071;3
+386;Murray;Utah;84107;4
+387;Murrieta;California;92563;4
+388;Muskogee;Oklahoma;74403;1
+389;Naperville;Illinois;60540;1
+390;Nashua;New Hampshire;3060;2
+391;Nashville;Tennessee;37211;3
+392;New Albany;Indiana;47150;1
+393;New Bedford;Massachusetts;2740;2
+394;New Brunswick;New Jersey;8901;2
+395;New Castle;Indiana;47362;1
+396;New Rochelle;New York;10801;2
+397;New York City;New York;10024;2
+398;New York City;New York;10009;2
+399;New York City;New York;10035;2
+400;New York City;New York;10011;2
+401;Newark;Ohio;43055;2
+402;Newark;Delaware;19711;2
+403;Newport News;Virginia;23602;3
+404;Niagara Falls;New York;14304;2
+405;Noblesville;Indiana;46060;1
+406;Norfolk;Nebraska;68701;1
+407;Normal;Illinois;61761;1
+408;Norman;Oklahoma;73071;1
+409;North Charleston;South Carolina;29406;3
+410;North Las Vegas;Nevada;89031;4
+411;North Miami;Florida;33161;3
+412;Norwich;Connecticut;6360;2
+413;Oak Park;Illinois;60302;1
+414;Oak Park;Michigan;48237;1
+415;Oakland;California;94601;4
+416;Oceanside;New York;11572;2
+417;Oceanside;California;92054;4
+418;Odessa;Texas;79762;1
+419;Oklahoma City;Oklahoma;73120;1
+420;Olathe;Kansas;66062;1
+421;Olympia;Washington;98502;4
+422;Omaha;Nebraska;68104;1
+423;Ontario;California;91761;4
+424;Orange;New Jersey;7050;2
+425;Orem;Utah;84057;4
+426;Orland Park;Illinois;60462;1
+427;Orlando;Florida;32839;3
+428;Ormond Beach;Florida;32174;3
+429;Oswego;Illinois;60543;1
+430;Overland Park;Kansas;66212;1
+431;Owensboro;Kentucky;42301;3
+432;Oxnard;California;93030;4
+433;Palatine;Illinois;60067;1
+434;Palm Coast;Florida;32137;3
+435;Park Ridge;Illinois;60068;1
+436;Parker;Colorado;80134;4
+437;Parma;Ohio;44134;2
+438;Pasadena;California;91104;4
+439;Pasadena;Texas;77506;1
+440;Pasco;Washington;99301;4
+441;Passaic;New Jersey;7055;2
+442;Paterson;New Jersey;7501;2
+443;Pearland;Texas;77581;1
+444;Pembroke Pines;Florida;33024;3
+445;Pensacola;Florida;32503;3
+446;Peoria;Illinois;61604;1
+447;Peoria;Arizona;85345;4
+448;Perth Amboy;New Jersey;8861;2
+449;Pharr;Texas;78577;1
+450;Philadelphia;Pennsylvania;19140;2
+451;Philadelphia;Pennsylvania;19134;2
+452;Philadelphia;Pennsylvania;19120;2
+453;Philadelphia;Pennsylvania;19143;2
+454;Phoenix;Arizona;85023;4
+455;Pico Rivera;California;90660;4
+456;Pine Bluff;Arkansas;71603;3
+457;Plainfield;New Jersey;7060;2
+458;Plano;Texas;75023;1
+459;Plantation;Florida;33317;3
+460;Pleasant Grove;Utah;84062;4
+461;Pocatello;Idaho;83201;4
+462;Pomona;California;91767;4
+463;Pompano Beach;Florida;33068;3
+464;Port Arthur;Texas;77642;1
+465;Port Orange;Florida;32127;3
+466;Port Saint Lucie;Florida;34952;3
+467;Portage;Indiana;46368;1
+468;Portland;Oregon;97206;4
+469;Providence;Rhode Island;2908;2
+470;Provo;Utah;84604;4
+471;Pueblo;Colorado;81001;4
+472;Quincy;Illinois;62301;1
+473;Quincy;Massachusetts;2169;2
+474;Raleigh;North Carolina;27604;3
+475;Rancho Cucamonga;California;91730;4
+476;Rapid City;South Dakota;57701;1
+477;Reading;Pennsylvania;19601;2
+478;Redding;California;96003;4
+479;Redlands;California;92374;4
+480;Redmond;Oregon;97756;4
+481;Redmond;Washington;98052;4
+482;Redondo Beach;California;90278;4
+483;Redwood City;California;94061;4
+484;Reno;Nevada;89502;4
+485;Renton;Washington;98059;4
+486;Revere;Massachusetts;2151;2
+487;Richardson;Texas;75080;1
+488;Richmond;Kentucky;40475;3
+489;Richmond;Virginia;23223;3
+490;Richmond;Indiana;47374;1
+491;Rio Rancho;New Mexico;87124;4
+492;Riverside;California;92503;4
+493;Rochester;Minnesota;55901;1
+494;Rochester;New York;14609;2
+495;Rochester Hills;Michigan;48307;1
+496;Rock Hill;South Carolina;29730;3
+497;Rockford;Illinois;61107;1
+498;Rockville;Maryland;20852;2
+499;Rogers;Arkansas;72756;3
+500;Rome;New York;13440;2
+501;Romeoville;Illinois;60441;1
+502;Roseville;California;95661;4
+503;Roseville;Michigan;48066;1
+504;Roseville;Minnesota;55113;1
+505;Roswell;Georgia;30076;3
+506;Round Rock;Texas;78664;1
+507;Royal Oak;Michigan;48073;1
+508;Sacramento;California;95823;4
+509;Saginaw;Michigan;48601;1
+510;Saint Charles;Missouri;63301;1
+511;Saint Charles;Illinois;60174;1
+512;Saint Cloud;Minnesota;56301;1
+513;Saint Louis;Missouri;63116;1
+514;Saint Paul;Minnesota;55106;1
+515;Saint Peters;Missouri;63376;1
+516;Saint Petersburg;Florida;33710;3
+517;Salem;Oregon;97301;4
+518;Salem;Virginia;24153;3
+519;Salinas;California;93905;4
+520;Salt Lake City;Utah;84106;4
+521;San Angelo;Texas;76903;1
+522;San Antonio;Texas;78207;1
+523;San Bernardino;California;92404;4
+524;San Clemente;California;92672;4
+525;San Diego;California;92037;4
+526;San Diego;California;92024;4
+527;San Diego;California;92105;4
+528;San Francisco;California;94109;4
+529;San Francisco;California;94122;4
+530;San Francisco;California;94110;4
+531;San Gabriel;California;91776;4
+532;San Jose;California;95123;4
+533;San Luis Obispo;California;93405;4
+534;San Marcos;Texas;78666;1
+535;San Mateo;California;94403;4
+536;Sandy Springs;Georgia;30328;3
+537;Sanford;Florida;32771;3
+538;Santa Ana;California;92704;4
+539;Santa Barbara;California;93101;4
+540;Santa Clara;California;95051;4
+541;Santa Fe;New Mexico;87505;4
+542;Santa Maria;California;93454;4
+543;Scottsdale;Arizona;85254;4
+544;Seattle;Washington;98103;4
+545;Seattle;Washington;98105;4
+546;Seattle;Washington;98115;4
+547;Sheboygan;Wisconsin;53081;1
+548;Shelton;Connecticut;6484;2
+549;Sierra Vista;Arizona;85635;4
+550;Sioux Falls;South Dakota;57103;1
+551;Skokie;Illinois;60076;1
+552;Smyrna;Georgia;30080;3
+553;Smyrna;Tennessee;37167;3
+554;South Bend;Indiana;46614;1
+555;Southaven;Mississippi;38671;3
+556;Sparks;Nevada;89431;4
+557;Spokane;Washington;99207;4
+558;Springdale;Arkansas;72762;3
+559;Springfield;Virginia;22153;3
+560;Springfield;Ohio;45503;2
+561;Springfield;Oregon;97477;4
+562;Springfield;Missouri;65807;1
+563;Sterling Heights;Michigan;48310;1
+564;Stockton;California;95207;4
+565;Suffolk;Virginia;23434;3
+566;Summerville;South Carolina;29483;3
+567;Sunnyvale;California;94086;4
+568;Superior;Wisconsin;54880;1
+569;Tallahassee;Florida;32303;3
+570;Tamarac;Florida;33319;3
+571;Tampa;Florida;33614;3
+572;Taylor;Michigan;48180;1
+573;Temecula;California;92592;4
+574;Tempe;Arizona;85281;4
+575;Texarkana;Arkansas;71854;3
+576;Texas City;Texas;77590;1
+577;The Colony;Texas;75056;1
+578;Thomasville;North Carolina;27360;3
+579;Thornton;Colorado;80229;4
+580;Thousand Oaks;California;91360;4
+581;Tigard;Oregon;97224;4
+582;Tinley Park;Illinois;60477;1
+583;Toledo;Ohio;43615;2
+584;Torrance;California;90503;4
+585;Trenton;Michigan;48183;1
+586;Troy;New York;12180;2
+587;Troy;Ohio;45373;2
+588;Tucson;Arizona;85705;4
+589;Tulsa;Oklahoma;74133;1
+590;Tuscaloosa;Alabama;35401;3
+591;Twin Falls;Idaho;83301;4
+592;Tyler;Texas;75701;1
+593;Urbandale;Iowa;50322;1
+594;Utica;New York;13501;2
+595;Vacaville;California;95687;4
+596;Vallejo;California;94591;4
+597;Vancouver;Washington;98661;4
+598;Vineland;New Jersey;8360;2
+599;Virginia Beach;Virginia;23464;3
+600;Visalia;California;93277;4
+601;Waco;Texas;76706;1
+602;Warner Robins;Georgia;31088;3
+603;Warwick;Rhode Island;2886;2
+604;Washington;District of Columbia;20016;2
+605;Waterbury;Connecticut;6708;2
+606;Waterloo;Iowa;50701;1
+607;Watertown;New York;13601;2
+608;Waukesha;Wisconsin;53186;1
+609;Wausau;Wisconsin;54401;1
+610;Waynesboro;Virginia;22980;3
+611;West Allis;Wisconsin;53214;1
+612;West Jordan;Utah;84084;4
+613;West Palm Beach;Florida;33407;3
+614;Westfield;New Jersey;7090;2
+615;Westland;Michigan;48185;1
+616;Westminster;California;92683;4
+617;Wheeling;Illinois;60090;1
+618;Wheeling;West Virginia;26003;2
+619;Whittier;California;90604;4
+620;Wichita;Kansas;67212;1
+621;Wilmington;Delaware;19805;2
+622;Wilmington;North Carolina;28403;3
+623;Wilson;North Carolina;27893;3
+624;Woodbury;Minnesota;55125;1
+625;Woodland;California;95695;4
+626;Woodstock;Illinois;60098;1
+627;Woodstock;Georgia;30188;3
+628;Woonsocket;Rhode Island;2895;2
+629;Yonkers;New York;10701;2
+630;York;Pennsylvania;17403;2
+631;Yucaipa;California;92399;4
+632;Yuma;Arizona;85364;4
